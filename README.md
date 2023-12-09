@@ -3,7 +3,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07&theme=algolia&border_radius=10&card_width=900" alt="GitHub Streak" /></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07&theme=algolia&border_radius=10&card_width=900" alt="GitHub Streak" /></a>
 </p>
 
 ## :muscle: My skills
@@ -12,7 +12,7 @@
     I love to work with
 </h3> 
 <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="#">
         <img src="https://skillicons.dev/icons?i=tailwind,react" />
     </a>  
 </p> 
@@ -21,45 +21,30 @@
     Tech Stack
 </h3> 
 <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="#">
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,express,mongodb,firebase" />
     </a>
 </p>
 <br/>
 
-<!-- ## :bulb: Other skills
+## :technologist: About me
 <br/>
 <br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,express,mongodb,firebase" />
-  </a>
+- 🔭 I’m currently working on frontend web development with ReactJS
+- 🌱 Now I’m exploring NextJS.
+- 👯 I’m looking to collaborate on advance frontend technologies and web development.
+- 💬 Ask me about HTML, CSS, Tailwind and ReactJS.
+- ⚡ Fun fact: I have 4 years++ working experience as a HR Manager.
+
+<br/>
+<br/>
+
+
+## :mailbox: Find me
+<br/>
+<br/>
+<p style="font-size: 28px;" align="center">
+    <a style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border: 1px solid #4F8AD0; border-radius: 12px 0 0 12px; " href="https://www.pytorial.com/">Portfolio</a><a style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border-top: 1px solid #4F8AD0; border-bottom: 1px solid #4F8AD0;" href="https://www.linkedin.com/in/md-saddam-hossain-9352a62a3/">LinkdIn</a><a style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border: 1px solid #4F8AD0; border-radius: 0 12px 12px 0; " href="contact.saddam3@gmail.com">Email</a>
 </p>
 <br/>
-<br/> -->
-
-## :mailbox: Contact me
 <br/>
-<br/>
-
-<br/>
-<br/>
-
-## :user: Contact me
-<br/>
-<br/>
-
-<br/>
-<br/>
-
-
-#About Me
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
