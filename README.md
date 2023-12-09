@@ -1,6 +1,9 @@
 [![Cover Image](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/githubCoverImage.png "Saddam Hossain's cover image")]([https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/githubCoverImage.png))
 
 
+## Current Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07)](https://git.io/streak-stats)
+
 <!-- #Overview
 
 - 🔭 I’m currently working on ...
