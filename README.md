@@ -40,12 +40,8 @@
 <br/>
 <br/>
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/Portfolio.png" alt="GitHub Streak" /></a><a href="#"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/Email.png" alt="GitHub Streak" /></a><a href="#"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/LinkedIn.png" alt="GitHub Streak" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/portfolio-git.png" alt="GitHub Streak" /></a><a href="#"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/Email-git.png" alt="GitHub Streak" /></a><a href="#"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/linkedIn-git.png" alt="GitHub Streak" /></a>
 </p>
-
-
-<!-- <p align="center"> [<img height="55" src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/Portfolio.png">](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/Portfolio.png)[<img height="55" src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/Email.png">](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/Email.png)[<img height="55" src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/LinkedIn.png">](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/LinkedIn.png) </p> -->
-
 <br/>
 <br/>
 
