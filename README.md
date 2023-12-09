@@ -28,16 +28,12 @@
 <br/>
 
 ## :technologist: About me
-<br/>
-<br/>
+
 - 🔭 I’m currently working on frontend web development with ReactJS
 - 🌱 Now I’m exploring NextJS.
 - 👯 I’m looking to collaborate on advance frontend technologies and web development.
 - 💬 Ask me about HTML, CSS, Tailwind and ReactJS.
 - ⚡ Fun fact: I have 4 years++ working experience as a HR Manager.
-
-<br/>
-<br/>
 
 
 ## :mailbox: Find me
