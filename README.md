@@ -8,18 +8,17 @@
 
 ## :muscle: My skills
 <br/>
-<p align="center">
-    <h3>I love to work with</h3>
-</p> 
+<h3 align="center">
+    I love to work with
+</h3> 
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=tailwind,react" />
     </a>  
 </p> 
-<br/>
-<p align="center">
-    <h3>Tech Stack</h3>
-</p> 
+<h3 align="center">
+    Tech Stack
+</h3> 
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,express,mongodb,firebase" />
