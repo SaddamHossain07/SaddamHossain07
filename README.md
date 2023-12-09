@@ -40,7 +40,7 @@
 <br/>
 <br/>
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/portfolio-git.png" alt="GitHub Streak" /></a><a href="#"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/Email-git.png" alt="GitHub Streak" /></a><a href="#"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/linkedIn-git.png" alt="GitHub Streak" /></a>
+  <a href="https://www.pytorial.com/"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/p1.png" alt="GitHub Streak" /></a><a href="https://github.com/SaddamHossain07"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/p3.png" alt="GitHub Streak" /></a><a href="https://www.linkedin.com/in/md-saddam-hossain-9352a62a3/"><img src="https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/p2.png" alt="GitHub Streak" /></a>
 </p>
 <br/>
 <br/>
