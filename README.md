@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on front-end web development with ReactJS. My goal is to become a senior front-end web developer within next 2 years.
 - 🌱 Now I’m exploring NextJS and DSA. 
 - 👯 I’m looking to collaborate on advance front-end technologies and web development.
-- 💬 Ask me about HTML, CSS, Tailwind and ReactJS.
+- 💬 Ask me about HTML, CSS, Tailwind and ReactJS for your front-end design, fell free to have a look at my latest work in the pinned section bellow.
 - ⚡ Fun fact: I have 4 years++ working experience as a HR Manager.
 
 
