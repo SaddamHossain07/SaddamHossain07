@@ -42,9 +42,17 @@
     <p style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border-top: 1px solid #4F8AD0; border-bottom: 1px solid #4F8AD0;" href="https://www.linkedin.com/in/md-saddam-hossain-9352a62a3/">LinkdIn</p>
     <p style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border: 1px solid #4F8AD0; border-radius: 0 12px 12px 0; " href="contact.saddam3@gmail.com">Email</p>
 </div> -->
-
+<!-- 
 ## :mailbox: Find me
 
 * [Portfolio](https://www.pytorial.com/){: style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border: 1px solid #4F8AD0; border-radius: 12px 0 0 12px;"}
 * [LinkedIn](https://www.linkedin.com/in/md-saddam-hossain-9352a62a3/){: style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border-top: 1px solid #4F8AD0; border-bottom: 1px solid #4F8AD0;"}
-* [Email](mailto:contact.saddam3@gmail.com){: style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border: 1px solid #4F8AD0; border-radius: 0 12px 12px 0;"}
+* [Email](mailto:contact.saddam3@gmail.com){: style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border: 1px solid #4F8AD0; border-radius: 0 12px 12px 0;"} -->
+
+## :mailbox: Find me
+
+[![Portfolio](https://via.placeholder.com/15/0E223A/000000?text=+)](https://www.pytorial.com/) [Portfolio](https://www.pytorial.com/)
+
+[![LinkedIn](https://via.placeholder.com/15/0E223A/000000?text=+)](https://www.linkedin.com/in/md-saddam-hossain-9352a62a3/) [LinkedIn](https://www.linkedin.com/in/md-saddam-hossain-9352a62a3/)
+
+[![Email](https://via.placeholder.com/15/0E223A/000000?text=+)](mailto:contact.saddam3@gmail.com) [Email](mailto:contact.saddam3@gmail.com)
