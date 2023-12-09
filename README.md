@@ -1,15 +1,41 @@
 [![Cover Image](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/githubCoverImage.png "Saddam Hossain's cover image")]([https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/githubCoverImage.png))
 
 
-## Current Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07&theme=algolia)](https://git.io/streak-stats)
+## :chart_with_upwards_trend: Current Stats
+<br />
+<br />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07&theme=algolia&border_radius=10&card_width=700" alt="GitHub Streak" /></a>
+</p>
+<br />
+<br />
 
-## My skills
+## :muscle: Top skills
+<br />
+<br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react" />
   </a>
 </p>
+<br />
+<br />
+
+## Other skills
+<br />
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,express,mongodb,firebase" />
+  </a>
+</p>
+<br />
+<br />
+
+
+
+
+
 
 <!-- #Overview
 
