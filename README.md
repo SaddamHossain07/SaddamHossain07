@@ -4,7 +4,10 @@
 ## Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07&theme=algolia)](https://git.io/streak-stats)
 
+<div class="text-center">
 <a class="text-center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07&theme=algolia" alt="GitHub Streak" /></a>
+</div>
+
 
 <!-- #Overview
 
