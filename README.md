@@ -37,10 +37,6 @@
 
 
 ## :mailbox: Find me
-<br/>
-<br/>
-<p style="font-size: 28px;" align="center">
+<div style="font-size: 28px;" align="center">
     <a style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border: 1px solid #4F8AD0; border-radius: 12px 0 0 12px; " href="https://www.pytorial.com/">Portfolio</a><a style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border-top: 1px solid #4F8AD0; border-bottom: 1px solid #4F8AD0;" href="https://www.linkedin.com/in/md-saddam-hossain-9352a62a3/">LinkdIn</a><a style="color: #FFFFFF; background-color: #0E223A; padding: 25px; border: 1px solid #4F8AD0; border-radius: 0 12px 12px 0; " href="contact.saddam3@gmail.com">Email</a>
-</p>
-<br/>
-<br/>
+</div>
