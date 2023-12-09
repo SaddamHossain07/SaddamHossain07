@@ -13,8 +13,10 @@
     <h4>I love to work with</h4>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=tailwind,react" />
-    </a>    
-    <br/>
+    </a>  
+</p>  
+<br/>
+<p align="center">
     <h4>Tech Stack</h4>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,express,mongodb,firebase" />
