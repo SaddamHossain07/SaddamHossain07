@@ -1,4 +1,4 @@
-[!(https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png "web design")]
+[![cover image](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png "web design")]
 <!-- [![cover image](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png "web design")] -->
 
 
