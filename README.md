@@ -1,10 +1,13 @@
 [![Cover Image](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/githubCoverImage.png "Saddam Hossain's cover image")]([https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/githubCoverImage.png))
 
 
-## :chart_with_upwards_trend: Current Stats
-<p align="center">
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07&theme=algolia&border_radius=10&card_width=900" alt="GitHub Streak" /></a>
-</p>
+## :technologist: About me
+- 🔭 I’m currently working on front-end web development with ReactJS. My goal is to become a senior front-end web developer within next 2 years.
+- 🌱 Now I’m exploring NextJS and DSA. 
+- 👯 I’m looking to collaborate on advance front-end technologies and web development.
+- 💬 Ask me about HTML, CSS, Tailwind and ReactJS.
+- ⚡ Fun fact: I have 4 years++ working experience as a HR Manager.
+
 
 ## :muscle: My skills
 <br/>
@@ -27,16 +30,14 @@
 </p>
 <br/>
 
-## :technologist: About me
 
-- 🔭 I’m currently working on frontend web development with ReactJS
-- 🌱 Now I’m exploring NextJS.
-- 👯 I’m looking to collaborate on advance frontend technologies and web development.
-- 💬 Ask me about HTML, CSS, Tailwind and ReactJS.
-- ⚡ Fun fact: I have 4 years++ working experience as a HR Manager.
+## :chart_with_upwards_trend: Current Stats
+<p align="center">
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07&theme=algolia&border_radius=10&card_width=900" alt="GitHub Streak" /></a>
+</p>
 
 
-## :mailbox: Find me
+## :mailbox: Reach me out
 <br/>
 <br/>
 <p align="center">
