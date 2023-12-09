@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png)
+[![cover image](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png "web design")]
 
 
 #Overview
