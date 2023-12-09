@@ -3,7 +3,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07&theme=algolia&border_radius=10&card_width=700" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaddamHossain07&theme=algolia&border_radius=10&card_width=800" alt="GitHub Streak" /></a>
 </p>
 
 ## :muscle: My skills
