@@ -1,7 +1,7 @@
 <!-- [![cover image](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png "web design")] -->
 <!-- [![cover image](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png "web design")] -->
 
-[![An old rock in the desert](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png "Shiprock, New Mexico by Beau Rogers")](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png)
+[![Cover Image](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/githubCoverImage.png "Saddam Hossain's cover image")]([https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/cover.png](https://raw.githubusercontent.com/SaddamHossain07/SaddamHossain07/main/images/githubCoverImage.png))
 
 #Overview
 
