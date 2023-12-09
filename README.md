@@ -16,6 +16,7 @@
         <img src="https://skillicons.dev/icons?i=tailwind,react" />
     </a>  
 </p> 
+<hr/>
 <h3 align="center">
     Tech Stack
 </h3> 
@@ -38,6 +39,13 @@
 <br/> -->
 
 ## :mailbox: Contact me
+<br/>
+<br/>
+
+<br/>
+<br/>
+
+## :user: Contact me
 <br/>
 <br/>
 
