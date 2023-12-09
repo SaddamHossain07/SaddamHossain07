@@ -7,19 +7,26 @@
 </p>
 
 ## :muscle: Top skills
+<br/>
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,react" />
   </a>
 </p>
+<br/>
+<br/>
 
 ## Other skills
+<br/>
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,express,mongodb,firebase" />
   </a>
 </p>
-
+<br/>
+<br/>
 
 
 
